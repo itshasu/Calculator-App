@@ -1,0 +1,28 @@
+.Main{
+    border: 2px solid gray;
+    width: 173px;
+    margin: 0 auto;
+}
+
+.result{
+    width: 96%;
+    background-color: aquamarine;
+    color: crimson;
+}
+
+.clearbtn{
+    width: 99.9%;
+    margin-top: 1px;
+    background-color: blue;
+}
+.btn{
+    background-color: purple;
+    width: 39.9px;
+    margin: 0.1px;
+}
+
+.halfbtn{
+    background-color: blueviolet;
+    width: 84.2px;
+    margin-top: 2px;
+}
